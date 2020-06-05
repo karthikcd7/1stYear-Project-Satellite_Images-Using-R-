@@ -1,5 +1,6 @@
 # Remote-Sensing-Data-Analysis-Using-R-1st-Year
-
+### Images are from MODIS Satellite.
+### Parameters found are:
 ### Normalized Difference Vegetation Index (NDVI): 
 Used to analyze remote sensing measurements from a space platform, and assess whether the target being observed is live green vegetation
 or not.
